@@ -90,4 +90,5 @@ ecommerce-sql-project
 ---
 
 ## Conclusion
+
 This project demonstrates how SQL can be used to design relational databases and perform business analysis on e-commerce data.
